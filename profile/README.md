@@ -1,12 +1,9 @@
-## Hi there 👋
+## The Fossil Fuel Non-Proliferation Treaty Initiative
 
-<!--
+The Fossil Fuel Non-Proliferation Treaty Initiative is a global effort to foster international cooperation to accelerate a transition to renewable energy for everyone, end the expansion of coal, oil and gas, and equitably phase out existing production in keeping with what science shows is needed to address the climate crisis. It builds on decades of calls and campaigns for a fossil fuel phase out and fair energy transition by government, civil society, Indigenous, grassroots and other leaders - particularly from the Global South and aims to compliment other movements tactics such as divestment, debt relief and fossil fuel bans as well as the work being advanced by the Beyond Oil and Gas Alliance and the Power Past Coal Alliance.
 
-**Here are some ideas to get you started:**
+While the Paris Agreement set a crucial global climate target, many governments - including self-proclaimed climate leaders - have continued to approve new coal, oil and gas projects even though burning the world’s current fossil fuel reserves would result in seven times more emissions than what is compatible with keeping warming below 1.5ºC.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+In order to meet the goals of the Paris Agreement, we need international cooperation to explicitly stop the expansion of fossil fuels and manage a global just transition away from coal, oil and gas in a manner that is both fast and fair, so that no worker, community or country is left behind. This is why significant momentum is building behind the proposal for a Fossil Fuel Non-Proliferation Treaty. The Fossil Fuel Non-Proliferation Treaty is not an organisation, it’s an idea — one backed by a growing global network of governments, civil society organisations, academics, scientists, youth activists, health professionals, faith institutions, Indigenous peoples and hundreds of thousands of other citizens globally. Together they have joined a global initiative building momentum and diplomatic support behind this big, bold idea commensurate with the scale of the crisis we face
+
+Learn more about the Fossil Fuel Treaty on our webpage: https://fossilfueltreaty.org/
